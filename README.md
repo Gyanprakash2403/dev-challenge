@@ -1,6 +1,11 @@
 DB Updating Table Dev Challenge
 ===============================
 
+
+challenge.js Contains the solution
+==================================
+
+
 This module contains a development challenge for DB recruitment.
 
 The instructions are in the site/index.html file.
